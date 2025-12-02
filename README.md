@@ -31,7 +31,7 @@ documentation from the project.
   --------------------- ------------
   **Huỳnh Hoàng Anh**   2410078\
   **Ngô Trung Tín**     2413506\
-  **Huỳnh Tấn Tiến**    2413468\
+  **Huỳnh Tấn Tiến**    2413468
 
 Instructor: **Lê Thành Sách**\
 Class: **TN01 -- Honors Program**
