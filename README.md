@@ -378,9 +378,3 @@ plt.show()
 This project is for **academic and educational purposes only**.  
 © 2025, Ho Chi Minh City University of Technology – Faculty of Computer Science and Engineering.
 
----
-
-## 🔗 Links
-- 📘 [ScaNN Official Repository](https://github.com/google-research/google-research/tree/master/scann)  
-- 📄 [Project Report (PDF)](report/report.pdf)  
-- ▶️ [Google Colab Demo](https://colab.research.google.com/drive/your-demo-link)
